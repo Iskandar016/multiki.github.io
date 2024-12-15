@@ -1,0 +1,28 @@
+
+  body{
+    p{
+        font-size: 15px;
+
+    }
+  }
+  body{
+    a{
+        color: rgb(121, 9, 9);
+        background-color: tomato;
+        border-radius: 120px;
+        border: none;
+        line-break: none;
+        background-color: tomato
+        ;
+        transform: scale(1.1);
+    }
+  }
+  body{
+    img{
+    background-color: aliceblue;
+    }
+  }
+body{
+    
+}
+  
